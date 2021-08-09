@@ -27,3 +27,6 @@
 #### Não esquecer:
 
 *  `git merge "nome do arquivo"`
+
+*  `git add .`
+
