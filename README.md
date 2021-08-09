@@ -23,3 +23,7 @@
 * `git checkout -b "nome da branch"`
 
 * `git checkout master`
+
+#### Não esquecer:
+
+*  `git merge "nome do arquivo"`
